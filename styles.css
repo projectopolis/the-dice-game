@@ -66,7 +66,7 @@ footer {
     }
     
     .player {
-        margin-left: 30px;
+        margin-left: 0px;
     }
 
     .dice {
@@ -83,6 +83,9 @@ footer {
 @media (max-width: 583px) {
     h1 {
         font-size: 2rem;
+    }
+    .player {
+        margin-left: 0px;
     }
 }
 
